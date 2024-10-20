@@ -3,7 +3,7 @@
 #include "Interface.h"
 #include "Simulation.h"
 
-GameState State;
+GameState State; // ゲーム中の全てのデータ
 
 uint16_t GetRandFromSeed(uint16_t randVal)
 {

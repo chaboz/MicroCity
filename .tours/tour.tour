@@ -11,6 +11,21 @@
       "file": "Source/MicroCity/MicroCity.ino",
       "description": "Arduinoメインループ",
       "line": 116
+    },
+    {
+      "file": "Source/MicroCity/Game.cpp",
+      "description": "メインループ",
+      "line": 54
+    },
+    {
+      "file": "Source/MicroCity/Game.cpp",
+      "description": "ゲーム中の全てのデータはここに入る",
+      "line": 5
+    },
+    {
+      "file": "Source/MicroCity/Game.h",
+      "description": "GameState定義",
+      "line": 12
     }
   ]
 }
